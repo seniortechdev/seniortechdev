@@ -30,6 +30,7 @@ I am a full-stack software engineer building my version of the digital world one
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Haml](https://img.shields.io/badge/haml-%231572B6.svg?style=for-the-badge&logo=haml&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 - 🌐 &nbsp;
   ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -43,10 +44,11 @@ I am a full-stack software engineer building my version of the digital world one
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux createAsyncThunk](https://img.shields.io/badge/Redux-createAsyncThunk-333333?style=flat&logo=createAsyncThunk)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/android-studio.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![Django](https://img.shields.io/badge/django.svg?style=for-the-badge&logo=django&logoColor=white)
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
