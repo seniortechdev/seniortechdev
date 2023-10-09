@@ -44,7 +44,7 @@ I am a full-stack software engineer building my version of the digital world one
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Redux createAsyncThunk](https://img.shields.io/badge/Redux-createAsyncThunk-333333?style=flat&logo=createAsyncThunk)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![Django](https://img.shields.io/badge/django.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![DJANGO](https://img.shields.io/badge/django.svg?style=for-the-badge&logo=django&logoColor=white)
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
