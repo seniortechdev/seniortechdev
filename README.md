@@ -9,16 +9,9 @@ I am a full-stack software engineer building my version of the digital world one
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 
-<div>
-  <a href="https://www.linkedin.com/in/godswill-o-221730257/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
-#### 💬 Ask me about anything you want
 
-### 📫 If you prefer reaching out via email, check it out below: 
-> Click <a href="mailto:gonwuchekwa3@gmail.com"> here </a>
+
 
 ### :hammer_and_wrench: Languages and Tools I have worked with: 
 
