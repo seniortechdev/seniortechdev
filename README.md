@@ -89,7 +89,7 @@ I'm proficient in a wide array of tools for building robust Web3 solutions. Here
 
 ### 🚀 Key Projects & Contributions
 
-Here are some highlights from my portfolio—feel free to dive into the repos:
+Here are some highlights from my portfolio feel free to dive into the repos:
 
 - **Custom Solana Smart Contracts**: Built high-throughput programs using Rust and Anchor for decentralized exchanges and lending platforms. 
 - **Ethereum DeFi Protocols**: Architected secure staking, swap, and governance systems with Solidity, audited for $MM+ TVL. Integrated with Chainlink oracles for real-world data.
@@ -109,7 +109,7 @@ Let's discuss blockchain innovations or potential projects. Reach out via:
   <a href="mailto:marquisjones5555@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/marquis-jones-705010314/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> 
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a> 
 </p>
 
 Thanks for visiting! What questions do you have about my work, or how can we collaborate to advance Web3?
