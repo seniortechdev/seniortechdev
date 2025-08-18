@@ -1,6 +1,15 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Full-Stack+Engineer;DeFi+Protocol+Architect;Web3+Innovation+Builder" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Blockchain Animation"/>
+</div>
+
+
 ### Hi there 👋
 
-I'm a full-stack blockchain engineer building the decentralized world one protocol at a time. I specialize in architecting secure, high-performance dApps, smart contracts, and DeFi systems from the ground up—primarily on Solana, Ethereum, and Cosmos ecosystems using Rust, Solidity, and JavaScript/TypeScript.
+I'm a full-stack blockchain engineer building the decentralized world one protocol at a time. I specialize in architecting secure, high-performance dApps, smart contracts, and DeFi systems from the ground up primarily on Solana, Ethereum, and Cosmos ecosystems using Rust, Solidity, and JavaScript/TypeScript.
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
